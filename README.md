@@ -1,5 +1,6 @@
 
 
+
 🚀 Features
 
 ✅ Search for any city worldwide
@@ -39,4 +40,7 @@ Enter a city name in the search bar and press Enter The app fetches and displays
 ⭐ Show Your Support If you found this project helpful, please star ⭐ the repository on GitHub!
 
 Happy Coding! 🚀
+
+# -Weather-App
+An interactive and responsive Weather App built using HTML, CSS, and JavaScript. It fetches real-time weather data from the WeatherAPI and provides details like temperature, humidity, pressure, UV index
 
